@@ -1,3 +1,3 @@
 # PopulationGenetics
 
-see [Wiki] (https://github.com/yizhenzhong/PopulationGenetics/wiki)_ for tutorials.
+See [Wiki](https://github.com/yizhenzhong/PopulationGenetics/wiki) for tutorials.
